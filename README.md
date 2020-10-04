@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Educating myself in the field of Software Engineering with a specializaiton in Cloud Development.
+Educating myself in the field of Software Engineering with a specialization in Cloud Development.
 
 - 🔭 I’m currently working on Docker, Kubernetes
 - 🌱 I’m currently learning AWS, microservices
