@@ -24,4 +24,5 @@ I'm currently educating myself in the field of Software Engineering with a speci
 - 💬 Ask me about anything! I'll try to help as best as I can!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/Keenal)
 
-![Keenal's Github Stats](https://github-readme-stats.vercel.app/api?username=Keenal&show_icons=true)
+![Keenal's Github Stats](https://github-readme-stats.vercel.app/api?username=Keenal&show_icons=true&theme=radical)
+![Keenal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keenal&layout=compact&theme=radical&hide=jupyter%20notebook)
