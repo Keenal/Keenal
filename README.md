@@ -36,7 +36,6 @@ I'm currently educating myself in the field of Software Engineering with a speci
 
 - 🌱 I’m currently learning Docker and Android Development! 
 - 💬 Ask me about anything! I'll try to help as best as I can!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/Keenal)
 
 
 
