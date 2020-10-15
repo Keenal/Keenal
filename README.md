@@ -40,7 +40,7 @@ I'm currently educating myself in the field of Software Engineering with a speci
 - 💬 Ask me about anything! I'll try to help as best as I can!
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&title_color=ff9999&icon_color=ffffff&text_color=ccff99&bg_color=000000&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Keenal&show_icons=true&title_color=ff9999&icon_color=ffffff&text_color=ccff99&bg_color=000000&count_private=true&theme=dark" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keenal&layout=compact&theme=radical&hide=jupyter%20notebook></a>
 </p>
 
