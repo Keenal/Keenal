@@ -33,11 +33,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### A bit about myself!
+<h3 align = "center">
+  A bit about myself!
+  </h3>
+  
+  <p align="center">
 I'm currently educating myself in the field of Software Engineering with a specialization in Cloud Development.
-
-- 🌱 I’m currently learning Docker and Android Development! 
+</p>
+<p align = "center">
+- 🌱 I’m currently learning Docker and Android Development!  
+  </p>
+  <p align = "center">
 - 💬 Ask me about anything! I'll try to help as best as I can!
+
+</p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Keenal&show_icons=true&title_color=ff9999&icon_color=ffffff&text_color=ccff99&bg_color=000000&count_private=true&theme=dark" width="350"></a>
