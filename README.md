@@ -10,28 +10,11 @@
   </a>
 </p>
 
-  
-
+ 
 <h3 align = "center">
  Hi there 👋 I'm Keenal Shah!  👩‍💻
 </3>
 
-
-
-<!--
-**Keenal/Keenal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h3 align = "center">
   A bit about myself!
@@ -41,12 +24,20 @@ Here are some ideas to get you started:
 I'm currently educating myself in the field of Software Engineering with a specialization in Cloud Development.
 </p>
 <p align = "center">
-- 🌱 I’m currently learning Docker and Android Development!  
+- 🌱 I’m currently learning Docker!  
   </p>
   <p align = "center">
 - 💬 Ask me about anything! I'll try to help as best as I can!
 
 </p>
+
+<h4 align = "center">
+  Languages: <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  </h4>
+  
+  <p align="center">
+ 
+  </p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Keenal&show_icons=true&title_color=ff9999&icon_color=ffffff&text_color=ccff99&bg_color=000000&count_private=true&theme=dark" width="350"></a>
