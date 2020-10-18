@@ -13,9 +13,9 @@
  
 <h3 align = "center">
  Hi there 👋 I'm Keenal Shah!  👩‍💻
-</3>
+</h3>
   
-  <p align="center">
+ <p align="center">
 I'm currently educating myself in the field of Software Engineering with a specialization in Cloud Development.
 </p>
 
