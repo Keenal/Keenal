@@ -33,6 +33,9 @@ I'm currently educating myself in the field of Software Engineering with a speci
   
 </p>
 
+<p align='center'>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=keenal" />
+</p>
 
 
 
